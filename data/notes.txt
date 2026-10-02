@@ -1,0 +1,14 @@
+Company Policies
+
+Refund Policy
+Customers may request a refund within 30 days of purchase.
+Refunds are processed within 5-7 business days.
+
+Privacy Policy
+We collect only the data necessary to provide our service.
+We never sell user data to third parties. All data is encrypted
+at rest and in transit.
+
+Terms of Service
+By using our service you agree to our acceptable use policy.
+We reserve the right to suspend accounts that violate it.

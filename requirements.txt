@@ -1,0 +1,11 @@
+beautifulsoup4
+fastembed
+lxml
+openai
+pdfplumber
+Pillow
+protobuf
+python-docx
+python-dotenv
+pytesseract
+qdrant-client
