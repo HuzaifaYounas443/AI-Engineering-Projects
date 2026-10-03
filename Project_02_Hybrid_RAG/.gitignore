@@ -1,0 +1,43 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python environments and generated files
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Test, coverage, and type-checker artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Local vector database and generated indexes
+.qdrant/
+qdrant_storage/
+*.sqlite
+*.db
+chunks_store.json
+
+# Local uploaded/source documents
+data/uploads/
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and local temporary files
+*.log
+*.tmp
+*.temp
